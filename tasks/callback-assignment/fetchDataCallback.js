@@ -21,3 +21,5 @@ function fetchDataWithCallback(callback) {
 fetchDataWithCallback(function (result) {
   console.log(result);
 });
+
+// PR marker: change on callback-assignment only
